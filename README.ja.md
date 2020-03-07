@@ -40,3 +40,9 @@
 - 初期化のロジックを自分で書くことができる
 
 このようなメリットを享受することで、コード量削減・手で書かないことによるバグ抑制といった従来の`Java`ライブラリに有るメリットはそのままに、より安全なマッピングを実現することができます。
+
+# プロダクト一覧
+## KMapper
+`Kotlin` to `Kotlin`のマッピングライブラリです。
+
+- [ProjectMapK/KMapper: Mapper Libraly for Kotlin\.](https://github.com/ProjectMapK/KMapper)
