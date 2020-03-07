@@ -5,6 +5,6 @@ The MapK project take advantage of `Kotlin`'s excellent `reflection` capabilitie
 
 # Products
 ## KMapper
-`Reflection` base mapper library for `Kotlin`.
+`Kotlin` to `Kotlin` mapper library.
 
 - [ProjectMapK/KMapper: Mapper Libraly for Kotlin\.](https://github.com/ProjectMapK/KMapper)
