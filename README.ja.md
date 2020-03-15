@@ -46,3 +46,11 @@
 `Kotlin` to `Kotlin`のマッピングライブラリです。
 
 - [ProjectMapK/KMapper: Mapper Libraly for Kotlin\.](https://github.com/ProjectMapK/KMapper)
+- [ProjectMapK / KMapper](https://jitpack.io/#ProjectMapK/KMapper)
+
+## KRowMapper
+`Kotlin`向け`RowMapper`ライブラリです。
+`BeanPropertyRowMapper`のように機能します。
+
+- [ProjectMapK/KRowMapper: RowMapper for Kotlin\.](https://github.com/ProjectMapK/KRowMapper)
+- [ProjectMapK / KRowMapper](https://jitpack.io/#ProjectMapK/KRowMapper)
