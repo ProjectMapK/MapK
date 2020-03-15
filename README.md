@@ -5,13 +5,13 @@ The MapK project take advantage of `Kotlin`'s excellent `reflection` capabilitie
 
 # Products
 ## KMapper
-`Kotlin` to `Kotlin` mapper library.
+`Kotlin` to `Kotlin` mapper library works like a `ModelMapper`.
 
 - [ProjectMapK/KMapper: Mapper Libraly for Kotlin\.](https://github.com/ProjectMapK/KMapper)
 - [ProjectMapK / KMapper](https://jitpack.io/#ProjectMapK/KMapper)
 
 ## KRowMapper
-`RowMapper` library.
+`RowMapper` library works like a `BeanPropertyRowMapper`.
 
 - [ProjectMapK/KRowMapper: RowMapper for Kotlin\.](https://github.com/ProjectMapK/KRowMapper)
 - [ProjectMapK / KRowMapper](https://jitpack.io/#ProjectMapK/KRowMapper)
